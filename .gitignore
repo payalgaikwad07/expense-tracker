@@ -1,0 +1,24 @@
+# Compiled Java Bytecode
+bin/
+*.class
+
+# Windows OS Files
+desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# macOS System Files
+.DS_Store
+
+# IDE / Editor Settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+data/*.csv
+
+# User Data (Personal transactions & budgets)
+# Uncomment the line below if you want to keep your personal transactions private:
+# data/*.csv
